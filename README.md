@@ -31,7 +31,7 @@ For More Information :
 
 Visit - www.vasurobo.com
 
-Please, feel free to contact us on indianroboticsorganization@gmail.com
+Please, feel free to contact us on vasurobo.com@gmail.com
 
 If you like the application, Hit a like on our facebook page
 
