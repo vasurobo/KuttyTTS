@@ -35,9 +35,6 @@ Theres also a windows version of KuttyTTS available from indianrobotics.org!
 If you are a developer or wish to enhance this TTS,
 Then checkout https://github.com/mentamizh/flite_hts_tamil
 
-If you want a high quality, natural sounding tamil speech synthesizer, then you should definitely checkout **ArimaTTS**!
-
-Link : https://github.com/IndianRoboticsOrganization/ArimaTTS/
 
 
 Minimum System Requirements
@@ -87,19 +84,6 @@ You can play the synthesized speech using the command below
 
 *********************************************************************************
 
-For More Information :
-
-Visit - www.indianrobotics.org
-
-Please, feel free to contact us on indianroboticsorganization@gmail.com
-
-If you like the application, Hit a like on our facebook page
-
-Like Us On Facebook : http://facebook.com/indianrobotics/
-
-Follow Us On Twitter : https://twitter.com/indianrobotics_/
-
-Please post your feedbacks on facebook, it means so much to us.
 
 Ideas
 =====
@@ -125,10 +109,8 @@ speak("வணக்கம்")
 Future :
 ========
 
-* Graphical User Interface Will Be Added
 * A C Shared-library will be created
 * Python & Java API through wrappers
-* A .Net library will be made available for Mono Developers
 
 Pros
 =====
